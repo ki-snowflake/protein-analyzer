@@ -17,7 +17,7 @@ Here, it automatically tracks execution benchmarks across variable data scales (
 To run the performance benchmark, execute the script from the terminal and pass the paths to your FASTA data files as args:
 
 ```bash
-python .\protein-analyzer.py test1.100Reads test2.1000Reads test3.10kReads
+python protein-analyzer.py test1.100Reads test2.1000Reads test3.10kReads
 ```
 
 ## 🧬 Biological Context
